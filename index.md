@@ -3,4 +3,4 @@
 ### 123
 #### Probando
 ##### Headers
-_[Imagen de YaktoCat]_(https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
